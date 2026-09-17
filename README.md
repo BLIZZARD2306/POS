@@ -26,7 +26,7 @@ skills/
 
 ## Using it
 
-Install this as a Claude Code plugin, then just ask Claude to build a POS for your business (e.g. "build me a POS for my milk tea shop that lets regulars pay on credit"). Claude will:
+Install this as a Claude Code plugin, then just ask Claude Skill to build a POS for your business (e.g. "build me a POS for my milk tea shop that lets regulars pay on credit"). Claude will:
 
 1. Ask a few quick questions about the business if needed (menu categories, credit/tab support, item variants, payment methods).
 2. Pick one of the three POS Kit looks (Receipt, Market, or Night Shift) based on the business type, or match your brand colors.
